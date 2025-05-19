@@ -1,5 +1,5 @@
 const GsapTo = () => {
-  // TODO: Implement the gsap.to() method
+
 
   return (
     <main>
